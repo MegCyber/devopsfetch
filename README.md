@@ -5,7 +5,7 @@
 
 To install devopsfetch, run the following commands:
 
-    ```bash
+   
     git clone <repository_url>
     cd <repository_directory>
     chmod +x install.sh
