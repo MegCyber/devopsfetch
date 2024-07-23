@@ -68,4 +68,5 @@ The devopsfetch tool can be used with the following options:
     ```bash
     devopsfetch -t "2023-07-23 10:00" "2023-07-23 12:00"
     ```
-  
+
+Please note, some command requires root privileges (sudo) to run.
