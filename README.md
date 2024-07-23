@@ -10,7 +10,7 @@ To install devopsfetch, run the following commands:
     cd <repository_directory>
     chmod +x install.sh
     sudo ./install.sh
-    ```
+    
 
 ## Usage
 The devopsfetch tool can be used with the following options:
